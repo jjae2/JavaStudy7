@@ -1,6 +1,6 @@
 package com.prac.s1.diary;
 
-public class InfoDTO {
+public class DiaryDTO {
 	private String name;
 	private String nick;
 	private String email;
