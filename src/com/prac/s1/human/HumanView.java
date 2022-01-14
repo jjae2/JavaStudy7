@@ -4,7 +4,7 @@ import java.util.List;
 
 public class HumanView {
 	
-	//문자열을 받아서 출력하는 메서드
+	
 	
 	
 	//한사람의 정보를 출력하는 메서드
